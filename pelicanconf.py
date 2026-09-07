@@ -65,7 +65,7 @@ MENUITEMS = (
 
     ("Mon parcours", "/pages/parcours", "mortarboard",
         (
-            ("Parcours scolaire", "/pages/parcours-scolaire"),
+            ("Mon parcours scolaire", "/pages/parcours-scolaire"),
             ("Le BTS SIO", "/pages/bts-sio")
         ),
         "Découvrez mon parcours scolaire et professionnel.", "primary"
