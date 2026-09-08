@@ -1,11 +1,11 @@
 Title: Engagement étudiant
 
 
-# 🤝 Engagement Étudiant
+# 🤝 Ma certification
 
-## 🚒 Pompier volontaire
+## 🚒 PYTHON
 
-En parallèle de mes études en BTS SIO, je suis **pompier volontaire** depuis 2 ans au sein du centre de secours de [VilleFictive].  
+En parallèle j'ai pu avoir l'opportuniter de faire une  **certification** sur le langage python.  
 
 <img src="{static}/images/portrait-pompier_volontaire.png" class="shadow" style="width:150px;" >
 
