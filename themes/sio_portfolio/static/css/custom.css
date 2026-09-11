@@ -24,8 +24,8 @@ ______________________________________________
     */
 
     /* --navbar-brand-couleur: rgb(255, 166, 0); */
-    --nav-link: rgb(67, 95, 12);
-    --nav-link-active: rgb(8, 77, 114);
+    --nav-link: #00047e;
+    --nav-link-active: #005a80;;
 
 
     /* Redéfinition des couleurs de Bootstrap :*/
@@ -86,6 +86,11 @@ Définition du fond du header :
 Couleur des éléments de navigations :
 -------------------------------------
 */
+nav{
+    background-color: #a8aaf1;
+}
+
+
 
 .navbar {
     font-size: 0.8em;
@@ -103,7 +108,7 @@ Couleur des éléments de navigations :
 
 
 .nav-link:hover, .dropdown-item:hover {
-    color: var(--bs-warning);
+    color: #005a80;
 }
 
 

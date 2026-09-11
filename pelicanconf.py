@@ -75,9 +75,7 @@ MENUITEMS = (
         (
             ("TP majeurs", "/pages/tp-majeurs"),
             ("Stage de 1ère année", "/pages/stage-sio1"),
-            ("Stage de 2e année", "/pages/stage-sio2"),
-            ("Projets scolaires", "/pages/projets-scolaires"),
-            ("Projets personnels", "/pages/projets-personnels"),                             # Optionnel
+            ("Projets scolaires", "/pages/projets-scolaires"),                         
             ("Certifications complémentaires", "/pages/certifications-complementaires") # Optionnel
         ),
         "Accédez aux projets et TP réalisés pendant ma formation et à mes projets personnels.", "success"
@@ -94,7 +92,7 @@ MENUITEMS = (
         "Consultez les articles de veille technologique que j’ai suivis durant cette année.", "warning"
     ),
 
-    ("Certification", "/pages/engagement-etudiant", "people-fill", None, "Présention de mon engagement étudiant.", None),    # Optionnel
+    ("Activité", "/pages/engagement-etudiant", "people-fill", None, "Présention de mon engagement étudiant.", None),    # Optionnel
 
 )
 

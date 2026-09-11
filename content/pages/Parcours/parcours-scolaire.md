@@ -2,21 +2,22 @@ Title: Parcours scolaire
 
 # Présentation de mon parcours scolaire
 
-Après un bac **STMG** spécialité **SIG** (**S**ystèmes d' **I**nformation de **G**estion) depuis petite j'avais pour but de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuites d'études suivantes dans le domaine de l'informatique :
+Après un bac **STMG** spécialité **SIG** (**S**ystèmes d' **I**nformation de **G**estion) depuis longtemp j'ai eu a coeur de poursuivre mes études dans le domaine de l'informatique. La durée d'un bts sio est de 2 ans, mes études ce font au sein du lycée léonard de vinci a melun. Dans ce bts il faut choisire pour le deuxieme semestre deux filière **SISR** et **SLAM**. j'ai decider de prendre **SLAM**.
 
-
-
-**1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations), dans ce BTS il y a deux filière  **SISR** et **SLAM** j'ai décider de prendre SLAM pour pouvoir continuer mon parcours scolaire
+**Pouruoi ce BTS ? **
+J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications. 
 
 - **<u>Quelle sont leurs definitions :</u>**
-    - **SISR** (**S**olutions d’**I**nfrastructure, **S**ystèmes et **R**éseaux) → administration réseaux, cybersécurité, cloud, virtualisation.
-    - **SLAM** (**S**olutions **L**ogicielles et **A**pplications **M**étiers) → développement d’applications, web, bases de données.
+    - **SISR** (**S**olutions d’**I**nfrastructure, **S**ystèmes et **R**éseaux) administration réseaux, cybersécurité, cloud, virtualisation.
+    - **SLAM** (**S**olutions **L**ogicielles et **A**pplications **M**étiers) développement d’applications, web, bases de données.
+
+- **<u>Suite d'études :</u>** Après la fin de mon **BTS** je compte poursuivre mes études avec une Licence et finitr avec un Master.
+
+**<u> </u>** 
 
 
-- **<u>Durée :</u>** 2 ans.
-- **<u>Débouchés :</u>** emploi direct (technicien support, admin systèmes/réseaux, développeur junior) ou poursuite d’études (Bachelor, BUT, Licence).
 
-J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications, au sein du lycée **Léonard de Vinci** de la ville de Melun.
+
 
 <img    src="{static}/images/logo&baseline-fondblanc.png" alt="Logo LdV" style="width: 200px;">
  

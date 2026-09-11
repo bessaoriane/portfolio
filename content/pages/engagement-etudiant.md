@@ -1,34 +1,36 @@
 Title: Engagement étudiant
 
 
-# 🤝 Ma certification
+# 🤝 ACTIVITÉ
+## 🎤 CHANT
 
-## 🚒 PYTHON
+En dehor de mes études,je fait des cours de chant dans un groupe de chorale.Cela me permet de souffler et de m'amuser de temps en temps.  
 
-En parallèle j'ai pu avoir l'opportuniter de faire une  **certification** sur le langage python.  
-
-<img src="{static}/images/portrait-pompier_volontaire.png" class="shadow" style="width:150px;" >
+<img src="{static}/images/talia_oriane_princesse.png" class="none" style="width:150px;" >
 
 
 ### Mes missions principales
-- Interventions de secours à personnes (accidents, urgences médicales).  
-- Lutte contre les incendies et protection des biens.  
-- Assistance en cas de catastrophes naturelles ou d’accidents de la route.  
-- Sensibilisation à la prévention des risques (auprès du grand public et des écoles).  
+
+- Ecoute et révison des chants.  
+- Travailler chez soit.  
+- Discipline.  
+- Etre assidue.  
 
 ### Compétences développées
-- **Rigueur et discipline** : respect strict des procédures de sécurité.  
-- **Gestion du stress** : réagir rapidement et efficacement en situation d’urgence.  
-- **Travail en équipe** : coordination avec d’autres pompiers, médecins, gendarmes.  
+
+- **Discipline** : respect strict des procédures de sécurité.  
+- **Gestion d'émotion** : réagir sagement dans les situation de parole.  
+- **Travail en équipe** : coordination avec d’autres chantres, musiciens, sonos.  
 - **Sens du service** : engagement au profit des autres et esprit de solidarité.  
-- **Organisation** : concilier études exigeantes et disponibilité opérationnelle.  
+- **Organisation** : concilier études exigeantes et apprentissage des chants.  
+
 
 ### Ce que cela m’apporte dans mes études
-Être pompier volontaire m’aide à développer des **qualités humaines et professionnelles** utiles en informatique :  
-- La gestion des priorités et des imprévus.  
-- La capacité à travailler en **mode projet**, comme lors d’une intervention.  
-- L’esprit d’entraide et la communication claire, essentiels dans une équipe informatique.  
+Être chantre m’aide réelement à développer des **qualités humaines et professionnelles** :
 
+- La gestion des priorités et des révisions.   
+- L’esprit d’entraide et la communication claire, essentiels dans une équipe informatique.  
+- Rester concntrer et attentife essentiel dans les cours.
+- Prise de la parole plus facilement.
 ---
 
-📌 *Mon engagement de pompier volontaire illustre ma motivation à mettre mes compétences au service des autres, que ce soit dans le cadre d’interventions d’urgence ou dans mes projets informatiques.*  
